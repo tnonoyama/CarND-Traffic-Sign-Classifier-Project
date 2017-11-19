@@ -42,8 +42,7 @@ You're reading it! and here is a link to my [project code](https://github.com/tn
 
 ####1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.
 
-I used the pandas library to calculate summary statistics of the traffic
-signs data set:
+I used the pandas library to calculate summary statistics of the traffisigns data set:
 
 * The size of training set is 34799
 * The size of the validation set is 4410
@@ -66,7 +65,9 @@ As a first step, I decided to convert the images to grayscale because I7d like t
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][image2]
+![alt text][the_image_before_grayscaling]
+![alt text][the_image_after_grayscaling]
+
 
 As a last step, I normalized the image data because ...
 
